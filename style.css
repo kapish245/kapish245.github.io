@@ -1,0 +1,182 @@
+*
+{
+    margin: 0;
+    padding: 0;
+   font-family: 'Cookie', cursive;
+    scroll-behavior: smooth;
+}
+.title-logo
+{
+    margin: 20px auto;
+    width: 10%;
+    float: left;
+    
+}
+.title-text
+{
+    padding: 12px 20px;
+    margin-left: 30%;
+    text-align: center;
+    font-family: cursive;
+    color: #fec2ab;
+    width: 40%;
+    font-size: 2.5rem;
+}
+.logo-image
+{
+    width: 4rem;
+    padding-right: 8px;
+}
+.nav-name
+{
+    font-family: 'Patua One', cursive;
+}
+.nav-name:hover
+{
+    color: #fec2ab;
+}
+.nav-link
+{
+    color:#fff;
+}
+.dropdown-toggle
+{
+    font-family: 'Patua One', cursive;
+    font-size: 160%;
+}
+.dropdown-item h3
+{
+ font-family: 'Patua One', cursive;   
+}
+.nav-link h3
+{
+    font-family: 'Patua One', cursive;
+}
+.nav-link:hover
+{
+    color:#fec2ab;
+}
+.title-section
+{
+    text-align: center;
+    padding-top: 1.5rem;
+}
+.title-image
+{
+    margin-bottom: 5px;
+
+    width: 86%;
+}
+/*
+.director
+{
+    text-align: center;
+}
+*/
+.director-image
+{
+    padding: 10px;
+    width: 20%;
+
+}
+.director p 
+{
+    font-family: 'Abel', sans-serif;
+    font-size: 23.109px;
+    
+}
+.director h3
+{
+    font-family: 'Amaranth', sans-serif;
+}
+hr
+{
+    border:3px  dotted;
+    width: 4%;
+    margin: 20px auto;
+    border-bottom-style: none;
+    border-color: #253260;
+}
+
+#features
+{
+    text-align: center;
+}
+.attraction-hr
+{
+    width: 31%;
+    margin:0 auto; 
+    padding-bottom: 20px;
+    border-left: none;
+    border-right: none;
+}
+#features img
+{
+    padding: 30px;
+}
+#features h1
+{
+    padding: 10px;
+    font-family: 'Patua One', cursive;
+
+}
+#features h2
+{
+    font-family: 'Lobster', cursive;
+    padding: 25px;
+    color: #253260;
+}
+#cta
+{
+    
+    text-align: center;
+}
+
+.reach-us
+{
+    
+     font-family: 'Patua One', cursive;
+}
+.contact-btn
+{
+    margin:30px auto;
+}
+.contact-btn:hover,.contact-btn:active
+{
+    background-color: #253260;
+    color: #fec2ab;
+}
+#footer
+{
+    background:#253260;
+    padding:20px ;
+    color: white;
+    text-align: center;
+    
+    
+}
+#footer h2
+{
+    
+    font-family: 'Patua One', cursive;
+}
+#footer h6
+{
+    font-family: 'Patua One', cursive;
+}
+/*
+}
+@media only screen and (max-width: 600px) 
+ { 
+
+    .nav-name
+    {
+     font-size: ;
+    }
+    .nav-link
+    {
+        
+    }
+
+}
+*/
